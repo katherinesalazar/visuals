@@ -1,1 +1,1 @@
-# Visuals for Codeup Projects to have cleaner repositories 
+# VisualsREpository for Codeup Projects to have cleaner repositories 
